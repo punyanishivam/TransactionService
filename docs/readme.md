@@ -1,3 +1,5 @@
+Create python virtualenv and run pip3 install -r requirements.txt
+
 To run the project:
     uvicorn src.main:app --reload
 
